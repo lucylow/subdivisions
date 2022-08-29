@@ -1,6 +1,6 @@
 # Subdivisions
 
-
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.23.23%20PM.png?raw=true)
 <div>
   
   [![Status](https://img.shields.io/badge/status-work--in--progress-success.svg)]()
@@ -14,10 +14,14 @@
 
 Subdivisions is an NFT marketplace for real estate listings for the tokenization of real estate assets.
 
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.23.43%20PM.png?raw=true)
+
 Each real estate asset is attached to a wallet owner. This is done with a subdivision proprietary predictive analytics model with over 1 billion data points on residential real estate. With Chainlink Oracles, this includes information such as up to date market valuations rental rates residential trends and predictive pricing models to smart contracts. Subdivision users can call the prospect now chainlike node to obtain data for the average price per square foot of residential real estate. This is for the last giving quarter based off very specific area code.
 
 Blockchain technology makes the asset management search easier for everyone.
 
+
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.23.34%20PM.png?raw=true)
 
 ### Chainlink Oracles: SmartZip & ProspectNow
 
@@ -28,12 +32,17 @@ This can be viewed on etherscan since everything is automated and smart contract
 
 We can use ethereum remix to initialize or smart contract in addition to adding our chain link oracles with parameters like the owner name image description location price of our real estate assets. 
 
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.24.39%20PM.png?raw=true)
+
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.24.46%20PM.png?raw=true)
+
 
 ### Non Fungible Tokens 
 
 NFTs: This could be visualized as like an image of a property deed which is then stored on NFT storage and can be sold as an NFT or non fungible token the marketplace like OpenSea name description price location of this would be on an immutable Ledger via eTHEREUM making it easier to lock up collateral for loans transfer real estate ownership or trigger rental payments at the beginning of each month
 
 
+![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.24.03%20PM.png?raw=true)
 
 ETHERSCAN
 
