@@ -44,10 +44,6 @@ NFTs: This could be visualized as like an image of a property deed which is then
 
 ![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.24.03%20PM.png?raw=true)
 
-ETHERSCAN
-
-https://kovan.etherscan.io/address/0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
-
 
 land deed1
 
