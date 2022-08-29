@@ -1,6 +1,17 @@
 # Subdivisions
 
 
+<div>
+  
+  [![Status](https://img.shields.io/badge/status-work--in--progress-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/subdivisions.svg)](https://github.com/lucylow/subdivisions/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/subdivisions.svg)](https://github.com/lucylow/subdivisions/pulls)
+  [![License](https://img.shields.io/bower/l/bootstrap)]()
+
+</div>
+
+---
+
 Subdivisions is an NFT marketplace for real estate listings for the tokenization of real estate assets.
 
 Each real estate asset is attached to a wallet owner. This is done with a subdivision proprietary predictive analytics model with over 1 billion data points on residential real estate. With Chainlink Oracles, this includes information such as up to date market valuations rental rates residential trends and predictive pricing models to smart contracts. Subdivision users can call the prospect now chainlike node to obtain data for the average price per square foot of residential real estate. This is for the last giving quarter based off very specific area code.
@@ -75,14 +86,12 @@ info
 
 
 
-Etherscan for both of them
+Etherscan 
 
-….
 
 https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e
 
 
-=============
-
-
 https://kovan.etherscan.io/tx/0x5dbb4c05160eeda41c458c10cc15b9d9454a3473517375d882ca56baca80b99a
+
+---
