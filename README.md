@@ -1,4 +1,4 @@
-# Subdivisions
+# Subdivisions 
 
 ![](https://github.com/lucylow/subdivisions/blob/main/subdivisions/Screen%20Shot%202022-08-29%20at%205.23.23%20PM.png?raw=true)
 <div>
